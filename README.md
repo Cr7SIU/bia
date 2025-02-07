@@ -1,6 +1,6 @@
 # BIA Project
 
-This project is designed to [provide a brief description of the project's purpose].
+This project is designed to automate the extraction of geospatial data from CSV files, process and clean the data using Python's Pandas library, made a requests into the Postcodes.io API to enrich the dataset with UK postcode information and load the dataframe into a PostgreSQL database, facilitating the generation of comprehensive reports that provide valuable insights..
 
 ## Project Structure
 
